@@ -1,7 +1,7 @@
 # Landing Page Template built with Next JS 13+, Tailwind CSS 3 and TypeScript 
 
 <p align="center">
-  <a href="#/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
+  <a href="#/"><img src="public/assets/images/nextjs.webp" alt="Next js starter banner"></a>
 </p>
 
 🚀 Landing Page theme written in Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
@@ -141,7 +141,7 @@ Clone this repository on own GitHub account and deploy to Netlify:
 
 Deploy this Next JS Boilerplate on Vercel in one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](Github repository link)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/Br0wnZ/NextJS-Landing-Page-Template)
 
 ### VSCode information (optional)
 
